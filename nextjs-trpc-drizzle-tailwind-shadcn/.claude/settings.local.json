@@ -1,0 +1,14 @@
+{
+  "enabledMcpjsonServers": [
+    "sequential-thinking",
+    "shadcn",
+    "time",
+    "context7",
+    "playwright",
+    "chrome-devtools",
+    "kibo-ui",
+    "github",
+    "next-devtools"
+  ],
+  "enableAllProjectMcpServers": true
+}
